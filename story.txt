@@ -1,3 +1,5 @@
 This is some text.
 
 More text.
+
+Solo text.
